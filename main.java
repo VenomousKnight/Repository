@@ -3,4 +3,8 @@ public class Main{
         
     }
 
+    public void showString(){
+        System.out.println("This is the new branch");
+    }
+
 }
