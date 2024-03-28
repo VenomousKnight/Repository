@@ -8,4 +8,8 @@ public class Main{
         System.out.println("This is the new branch");
     }
 
+    public void <T> mathAdd (T thin){
+        sum = thing + thing;
+        System.out.ptrintln(sum);
+    }
 }
