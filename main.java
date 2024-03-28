@@ -2,6 +2,7 @@ public class Main{
     public static void main(String[] args){
         System.out.println("This is also another line");
         System.out.println("Conflicts ");
+        System.out.println("Master conflict");
         
     }
 
